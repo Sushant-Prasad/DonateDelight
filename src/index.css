@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@theme{
+  --color-primary:#7fffd4;
+  --color-background1:#fffcdc;
+  --color-background2:#ddd9f2;
+  --color-background3:#d0e9e6;
+  --color-secondary:#22d0f2;
+  --color-third:#46e8ba;
+  --color-fourth:#00879E;
+  --color-white:#fff;
+  --color-text:#555;
+  --color-text-gray:#999;
+  --color-black:#000;
+  --font-primary: 'Poppins','sans-serif';
+  --font-secondary:'Inter','sans-serif';
+  --font-third:'Roboto','sans-serif';
+  --font-logo:'Raleway','sans-serif';
+  
+
+}
