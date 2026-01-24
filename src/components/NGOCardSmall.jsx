@@ -1,6 +1,6 @@
 // Desc: This file contains the NGOCard component which is used to display the NGO information in a card format.
 import { IoLocationSharp } from "react-icons/io5";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 
 const NGOCardSmall = ( {NGOs} ) => {

@@ -1,7 +1,7 @@
 import { useSelector } from "react-redux";
 import { FaArrowRight } from "react-icons/fa";
 import NGOCardSmall from "./NGOCardSmall";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 const NGOsSection = () => {
   const NGOs = useSelector((state) => state.NGOs);

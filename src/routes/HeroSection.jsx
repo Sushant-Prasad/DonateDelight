@@ -1,4 +1,4 @@
-import { Link } from "react-router"; 
+import { Link } from "react-router-dom"; 
 import Stats from "../components/Stats";
 import NGOsSection from "../components/NGOsSection";
 import StatsSection from "../components/StatsSection";

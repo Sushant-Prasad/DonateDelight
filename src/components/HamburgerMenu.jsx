@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { IoMdMenu, IoMdClose } from "react-icons/io";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 const HamburgerMenu = () => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);

@@ -1,4 +1,4 @@
-import { Link, useLocation } from "react-router";
+import { Link, useLocation } from "react-router-dom";
 
 const NavLinks = () => {
   const location = useLocation(); // Get current path
