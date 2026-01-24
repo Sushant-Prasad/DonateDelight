@@ -42,7 +42,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Provider store={ngoStore}>
     <RouterProvider router={router}> 
-    <App />
        </RouterProvider>
        </Provider>
   
